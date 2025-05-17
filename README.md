@@ -1,7 +1,9 @@
 # 🎨 Flutter Color Palette Generator
 
 > تطبيق تجريبي بسيط لتوليد ألوان متناسقة باستخدام Flutter
-
+<div align="center">
+  <img src="Doc/mocup.jpg" >
+</div>
 ---
 
 ## 📱 فكرة التطبيق
@@ -52,9 +54,11 @@
 ## 📸 صور من التطبيق
 
 <div align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/palette-options.png" width="250">
-  <img src="screenshots/favorites.png" width="250">
+  <img src="Doc/mocup02.jpg">
+  <img src="screenshots/01Start.png" width="250">
+<!--   <img src="screenshots/02home.png" width="250"> -->
+  <img src="screenshots/03Chose.png" width="250">
+  <img src="screenshots/07Favorite.png" width="250">
 </div>
 
 ---
